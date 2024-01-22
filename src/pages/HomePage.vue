@@ -1,7 +1,7 @@
 <script setup>
+
 </script>
 
 <template>
-  <main>
-  </main>
+  <h1>Main Content Nih Bang</h1>
 </template>
