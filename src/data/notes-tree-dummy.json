@@ -1,0 +1,94 @@
+[
+  {
+    "label": "Work",
+    "children": [
+      {
+        "label": "how to write CV",
+        "slug": "how-to-write-cv"
+      },
+      {
+        "label": "Work balance",
+        "slug": "work-balance"
+      },
+      {
+        "label": "Tax",
+        "slug": "tax"
+      }
+    ]
+  },
+  {
+    "label": "Self Development",
+    "children": [
+      {
+        "label": "Time management",
+        "slug": "time-management"
+      },
+      {
+        "label": "Money management",
+        "slug": "money-management"
+      },
+      {
+        "label": "Critical thinking",
+        "slug": "critical-thinking"
+      }
+    ]
+  },
+  {
+    "label": "Programming",
+    "children": [
+      {
+        "label": "Python",
+        "slug": "python"
+      },
+      {
+        "label": "OOP",
+        "slug": "oop"
+      },
+      {
+        "label": "Clean code",
+        "slug": "clean-code"
+      },
+      {
+        "label": "Design pattern",
+        "slug": "design-pattern"
+      },
+      {
+        "label": "CSS",
+        "slug": "css"
+      },
+      {
+        "label": "JavaScript",
+        "slug": "javascript"
+      },
+      {
+        "label": "Bash",
+        "slug": "bash"
+      },
+      {
+        "label": "Database design",
+        "slug": "database-design"
+      }
+    ]
+  },
+  {
+    "label": "Hardware",
+    "children": [
+      {
+        "label": "Choose the right component for PC",
+        "slug": "choose-the-right-component-for-pc"
+      },
+      {
+        "label": "Monitor",
+        "slug": "monitor"
+      },
+      {
+        "label": "Mouse gaming",
+        "slug": "mouse-gaming"
+      },
+      {
+        "label": "Mechanical keyboard for better typing",
+        "slug": "mechanical-keyboard-for-better-typing"
+      }
+    ]
+  }
+]
