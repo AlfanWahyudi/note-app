@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div>
+  <section class="col-6 bg-secondary">
     
-  </div>
+  </section>
 </template>
