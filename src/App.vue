@@ -44,5 +44,6 @@
   </q-layout>
 </template>
 
-<style scoped>
+<style lang="scss">
+@import './css/font.sass'
 </style>

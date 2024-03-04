@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <q-btn color="black" @click="$emit('toggle-sidebar')" label="open" />
+  <q-btn  @click="$emit('toggle-sidebar')" outline round color="primary" icon="menu" />
 </template>
 
 <style scoped>
